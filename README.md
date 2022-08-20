@@ -9,7 +9,7 @@
 2. You will then know if your birth year is a leap year or not.
 
 # Preview
-![quiz](https://github.com/divikjuneja17/Do-You-Know-Java-Quiz/blob/main/preview_1.png?raw=true)
+![quiz](https://github.com/divikjuneja17/Were-you-born-on-a-leap-year-or-not/blob/main/preview.png?raw=true)
 
 # Packages used:
 [readline-sync](https://www.npmjs.com/package/readline-sync)
