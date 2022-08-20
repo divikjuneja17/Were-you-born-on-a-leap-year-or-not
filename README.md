@@ -11,6 +11,8 @@
 # Preview
 ![quiz](https://github.com/divikjuneja17/Were-you-born-on-a-leap-year-or-not/blob/main/preview.png?raw=true)
 
+# Refer Leap Year Logic:
+[Youtube Link](https://www.youtube.com/watch?v=lROrjh8sBLQ)
 # Packages used:
 [readline-sync](https://www.npmjs.com/package/readline-sync)
 
