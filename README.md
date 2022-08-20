@@ -1,4 +1,4 @@
-# Were you born on a leap year-or-not
+# Were you born on a leap year or not?
  It is a CLI App which lets you know if your birth year is a leap year or not. This is made using NodeJS.
 
  Validation of input type is also integrated in this app. If you enter String like 'potato' instead of Date format in birth-date, an error is shown.
